@@ -39,7 +39,7 @@ To run the models, follow these steps:
 If you find this project useful, feel free to ⭐ the repository and contribute! Pull requests are welcome. Let’s collaborate on enhancing open-vocabulary object detection! 🚀
 
 ## 📢 Connect with Me
-🔗 LinkedIn: [Muhammad Rizwan]([https://www.linkedin.com/in/muhammadrizwan11/](https://www.linkedin.com/in/datasciecnce/))  
+🔗 LinkedIn: [Muhammad Rizwan](https://www.linkedin.com/in/datasciecnce/)  
  
 
 ---
