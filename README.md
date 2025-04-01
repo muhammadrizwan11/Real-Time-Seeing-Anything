@@ -8,14 +8,16 @@ This repository showcases real-time object detection and segmentation using **YO
 ### ✅ Prompt-Free Model (`YOLOE-11L-SEG-PF.pt`)
 - Detects **all** objects in an image or video without predefined categories.
 - Ideal for open-world detection tasks where objects are unknown beforehand.
+  ![Prompt-Free Model](https://github.com/muhammadrizwan11/Real-Time-Seeing-Anything/blob/main/Prompt%20Free%20models%20prediction.png)
+
 
 ### ✅ Text/Visual-Prompt Model (`YOLOE-11L-SEG.pt`)
 - Detects **specific** objects based on text or visual prompts.
 - Allows precise control over detected classes.
+![](https://github.com/muhammadrizwan11/Real-Time-Seeing-Anything/blob/main/Text_Visual%20Prompt%20models%20prediction.png)
 
 ## 📷 Predicted Images
 Both models' outputs have been uploaded in this repository for comparison.
-![Prompt-Free Model](https://github.com/muhammadrizwan11/Real-Time-Seeing-Anything/blob/main/Prompt%20Free%20models%20prediction.png)
 
 ## 🛠 Installation & Setup
 To run the models, follow these steps:
