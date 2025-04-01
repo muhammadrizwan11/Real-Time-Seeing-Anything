@@ -14,7 +14,8 @@ This repository showcases real-time object detection and segmentation using **YO
 - Allows precise control over detected classes.
 
 ## 📷 Predicted Images
-Both models' outputs have been uploaded in this repository for comparison. Check out the `predictions/` folder for results!
+Both models' outputs have been uploaded in this repository for comparison.
+![Prompt-Free Model](https://github.com/muhammadrizwan11/Real-Time-Seeing-Anything/blob/main/Prompt%20Free%20models%20prediction.png)
 
 ## 🛠 Installation & Setup
 To run the models, follow these steps:
